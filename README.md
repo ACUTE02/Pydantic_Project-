@@ -144,7 +144,7 @@ The project enables:
 ## Clone Repository
 
 ```bash
-git clone https://github.com/your-username/Restaurant-Menu-Pydantic.git
+git clone https://github.com/ACUTE02/Restaurant-Menu-Pydantic.git
 ```
 
 ```bash
